@@ -1,4 +1,4 @@
-// feetTomile
+// feetToMile
 
 function feetToMile(feet){
     if(feet >= 0){
